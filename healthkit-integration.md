@@ -4,6 +4,7 @@
 
 ### Available Data Types
 Apple HealthKit provides access to a comprehensive set of health data:
+(https://developer.apple.com/documentation/healthkit/data-types)
 
 **Vital Signs & Body Measurements:**
 - Heart rate, Blood pressure, Body temperature
@@ -71,6 +72,7 @@ AppleHealthKit.initHealthKit(healthKitOptions, (error) => {
 
 ### Available Data Types
 Google Health Connect provides unified access to health data:
+(https://developer.android.com/health-and-fitness/guides/health-connect/plan/data-types)
 
 **Activity & Fitness:**
 - Steps, Distance, Active calories burned
@@ -147,6 +149,7 @@ npm install react-native-google-fit
 
 ### Available Data Types
 Fitbit Web API provides comprehensive fitness and health data:
+(https://dev.fitbit.com/build/reference/web-api/explore/)
 
 **Activity & Fitness:**
 - Steps, Distance, Floors climbed
